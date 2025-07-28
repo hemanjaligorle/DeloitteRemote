@@ -2,3 +2,5 @@ Big data and Analystics
 hadoop and Aws infrastructure
 
 Hive data warhouse
+New batch of the deloitte!!!!
+Good evening 
