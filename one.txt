@@ -1,2 +1,4 @@
-Big data and Analystics[D[D[D[[[C[C[Ctics
+Big data and Analystics
 hadoop and Aws infrastructure
+
+Hive data warhouse
